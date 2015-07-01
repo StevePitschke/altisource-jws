@@ -1,5 +1,5 @@
 {
-  "name": "jws",
+  "name": "altisource-jws",
   "version": "3.0.0-1",
   "description": "Implementation of JSON Web Signatures",
   "main": "index.js",
